@@ -1,2 +1,2 @@
 # smbc
-Super Mario Bros. Classics
+Super Mario Bros. Classic
